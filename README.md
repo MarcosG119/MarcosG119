@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcos 👋 
 
-[![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosG119)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosG119)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MarcosG119/MarcosG119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
