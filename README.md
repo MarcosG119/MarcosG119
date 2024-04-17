@@ -1,6 +1,8 @@
 ### Hi there, I'm Marcos 👋 
 
-I like using a variety of technologies. I consider myself a generalist more than anything. Always looking forward to my next challenges!
+I love to build. 
+
+Currently working with SF Civic Tech. I like using a variety of technologies. I consider myself a generalist more than anything. Always looking forward to my next challenges!
 
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosG119)](https://github.com/anuraghazra/github-readme-stats)
 
